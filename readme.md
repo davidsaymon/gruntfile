@@ -1,6 +1,6 @@
 # Exercício Gruntfile
 
-# :hamer: O exercício pediu as seguintes tarefas:
+# :hammer: O exercício pediu as seguintes tarefas:
 
 - `Tarefa 1`: Criar um arquivo Gruntfile
 - `Tarefa 2`: Executar a compilação do LESS
